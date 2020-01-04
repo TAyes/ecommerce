@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         
-        
+        textSelectionColor: Color.fromARGB(0, 1, 2 ,2),
         
         
         
