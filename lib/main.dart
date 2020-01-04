@@ -7,10 +7,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'My dev',
       theme: ThemeData(
         
-        textSelectionColor: Color.fromARGB(0, 1, 2 ,2),
+  
         
         
         
